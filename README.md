@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Flutter developer from Mansoura , Egypt</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=elsankry02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankry02" />
+  <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
 </p>
 
 - 🌱 I’m currently improving my skills in **Flutter** and **Dart**.
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=elsankry02@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=elsankary02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -63,17 +63,17 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=elsankry02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=elsankary02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankry02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankary02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankry02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankary02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
