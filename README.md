@@ -60,13 +60,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsankary02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=elsankary02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankary02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsankary02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsankary02&theme=tokyonight&hide_border=true" />
+  <img width="86%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankary02&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
