@@ -7,15 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
 </p>
 
-[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
-<h3 align="center">A passionate Flutter developer from Mansoura, Egypt 🇪🇬</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
-</p>
-
 <p align="center">
   🌱 I’m currently improving my skills in <strong>Flutter</strong> and <strong>PHP</strong>.<br>
   💬 Passionate about building scalable mobile applications with <strong>Flutter</strong>.<br>
