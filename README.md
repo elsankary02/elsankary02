@@ -1,9 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
-<h3 align="center">A passionate Flutter developer from Mansoura , Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Mansoura, Egypt 🇪🇬</h3>
 
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
 </p>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 📱 Mobile Development & Backend :
+### 📱 Mobile Development & Tech Stack :
 
 <p align="left">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logo=blueprint&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=google-keep&logoColor=white" />
   <img src="https://img.shields.io/badge/RIVERPOD-000000?style=for-the-badge&logo=riverpod&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLOC-0052CC?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/CUBIT-02569B?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
@@ -56,6 +57,7 @@
   <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge&logo=codementor&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge&logo=expert-city&logoColor=white" />
   <img src="https://img.shields.io/badge/AGILE-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDLC-444444?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCALIZATION-5D2D91?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
 
