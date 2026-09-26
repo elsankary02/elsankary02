@@ -7,11 +7,22 @@
   <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
 </p>
 
-- 🌱 I’m currently improving my skills in **Flutter** and **PHP**.
-- 💬 Passionate about building scalable mobile applications with **Flutter**.
-- 🤝 **How to reach me** :
+[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
 
-<p align="left">
+<h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
+<h3 align="center">A passionate Flutter developer from Mansoura, Egypt 🇪🇬</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
+</p>
+
+<p align="center">
+  🌱 I’m currently improving my skills in <strong>Flutter</strong> and <strong>PHP</strong>.<br>
+  💬 Passionate about building scalable mobile applications with <strong>Flutter</strong>.<br>
+  🤝 <strong>How to reach me</strong> :
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/elsankary02" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,9 +36,8 @@
 
 ---
 
-### 📱 Mobile Development & Tech Stack :
-
-<p align="left">
+<h3 align="center">📱 Mobile Development & Tech Stack</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -35,9 +45,8 @@
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### 🏗️ Architecture & State Management :
-
-<p align="left">
+<h3 align="center">🏗️ Architecture & State Management</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logo=blueprint&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=google-keep&logoColor=white" />
   <img src="https://img.shields.io/badge/RIVERPOD-000000?style=for-the-badge&logo=riverpod&logoColor=white" />
@@ -45,9 +54,8 @@
   <img src="https://img.shields.io/badge/CUBIT-02569B?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Practices :
-
-<p align="left">
+<h3 align="center">🛠️ Tools & Practices</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -58,6 +66,18 @@
   <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge&logo=expert-city&logoColor=white" />
   <img src="https://img.shields.io/badge/AGILE-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCALIZATION-5D2D91?style=for-the-badge&logo=google-translate&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsankary02&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsankary02&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankary02&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
