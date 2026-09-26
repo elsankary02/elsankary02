@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ibrahim Mohamed</h1>
 <h3 align="center">A passionate Flutter developer from Mansoura , Egypt</h3>
 
 <p align="left"> 
@@ -12,10 +12,10 @@
 - 🤝 **How to reach me** :
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-3734b2330/" target="_blank">
+  <a href="https://www.linkedin.com/in/elsankary02" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=elsankary02@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedibrahimsoftware02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
