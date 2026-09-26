@@ -1,14 +1,14 @@
 [![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Mohamed Ibrahim Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Flutter developer from Mansoura , Egypt</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
 </p>
 
-- 🌱 I’m currently improving my skills in **Flutter** and **Dart**.
-- 💬 Ask me about **Flutter and Dart**.
+- 🌱 I’m currently improving my skills in **Flutter** and **PHP**.
+- 💬 Passionate about building scalable mobile applications with **Flutter**.
 - 🤝 **How to reach me** :
 
 <p align="left">
@@ -21,11 +21,12 @@
 
 ---
 
-### 📱 Mobile Development :
+### 📱 Mobile Development & Backend :
 
 <p align="left">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
