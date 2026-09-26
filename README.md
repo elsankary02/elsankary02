@@ -1,5 +1,4 @@
 [![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
-[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Flutter developer from Mansoura, Egypt.
