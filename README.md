@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center">📱 Mobile Development & Tech Stack</h3>
+<h3 align="center">📱 Mobile Development & Tech Stack :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
 
-<h3 align="center">🏗️ Architecture & State Management</h3>
+<h3 align="center">🏗️ Architecture & State Management :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge" />
@@ -64,7 +64,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats :</h3>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsankary02&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsankary02&theme=tokyonight" />
