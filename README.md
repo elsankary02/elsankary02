@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/CUBIT-02569B?style=for-the-badge" />
 </p>
 
-<h3 align="center">🛠️ Tools & Practices</h3>
+<h3 align="center">🛠️ Tools & Practices :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" />
