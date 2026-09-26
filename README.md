@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center">📱 Mobile Development & Tech Stack :</h3>
+<h3 align="center">📱 Mobile Development & Backend :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge" />
