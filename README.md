@@ -21,15 +21,15 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.shion.dev/api?username=elsankary02&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /></td>
-      <td align="center"><img src="https://streak-stats.demolab.com/?user=elsankary02&theme=dracula&hide_border=false" /></td>
+      <td align="center"><img src="https://github-readme-stats.shion.dev/api?username=elsankary02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></td>
+      <td align="center"><img src="https://streak-stats.demolab.com/?user=elsankary02&theme=tokyonight&hide_border=false" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=elsankary02&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+      <td colspan="2" align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=elsankary02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
     </tr>
   </table>
 </p>
 
 # ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
