@@ -7,66 +7,21 @@
   <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
 </p>
 
-<p align="center">
-  🌱 I’m currently improving my skills in <strong>Flutter</strong> and <strong>PHP</strong>.<br>
-  💬 Passionate about building scalable mobile applications with <strong>Flutter</strong>.<br>
-  🤝 <strong>How to reach me</strong> :
-</p>
+# 💫 About Me:
+ 🔭 I’m currently working on building cross-platform mobile apps with **Flutter**.<br> 👯 I’m looking to collaborate on **Flutter projects** and mobile development teams.<br> 🌱 I’m currently learning **Laravel** backend development and advanced **Clean Architecture**.<br> 💬 Ask me about Flutter, Dart, Clean Architecture, MVVM, and REST APIs.<br> ⚡ Fun fact: I love turning complex UI designs into buttery-smooth, responsive mobile interfaces!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/elsankary02" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedibrahimsoftware02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge" />
-  </a>
-  <a href="https://elsankary02.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2E8B57?style=for-the-badge" />
-  </a>
-  <a href="https://wa.me/201204306044" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61589600351820) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elsankary02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elsankary02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedibrahimsoftware02@gmail.com) 
 
-<h3 align="center">📱 Mobile Development & Backend :</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=elsankary02&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=elsankary02&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=elsankary02&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center">🏗️ Architecture & State Management :</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RIVERPOD-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLOC-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CUBIT-02569B?style=for-the-badge" />
-</p>
-
-<h3 align="center">🛠️ Tools & Practices :</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DIO-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID_PRINCIPLES-212121?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AGILE-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LOCALIZATION-5D2D91?style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats :</h3>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsankary02&theme=tokyonight" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->username=elsankary02&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsankary02&theme=tokyonight" />
 </p>
 
