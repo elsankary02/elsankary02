@@ -20,13 +20,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=elsankary02&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=elsankary02&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=elsankary02&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->username=elsankary02&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsankary02&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=elsankary02&theme=tokyonight&hide_border=true" />
-</p>
-
----
