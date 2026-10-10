@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Flutter developer from Mansoura, Egypt.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsankary02&label=Profile%20views&color=0e75b6&style=flat" alt="elsankary02" />
-</p>
-
 # 💫 About Me:
  🔭 I’m currently working on building cross-platform mobile apps with **Flutter**.<br> 👯 I’m looking to collaborate on **Flutter projects** and mobile development teams.<br> 🌱 I’m currently learning **Laravel** backend development and advanced **Clean Architecture**.<br> 💬 Ask me about Flutter, Dart, Clean Architecture, MVVM, and REST APIs.<br> ⚡ Fun fact: I love turning complex UI designs into buttery-smooth, responsive mobile interfaces!
 
